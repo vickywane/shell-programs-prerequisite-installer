@@ -2,13 +2,13 @@
  Create/Build a Command-line interface (CLI) application that will install the following software: wget, curl, Node.js
 
 ## Fulfilled Requirements:
-[x] It checks the host operating system and uses the appropriate installation commands
-[x] It checks for a previous installation before commencing a new one.
-[x] This installation script contains useful log statements to inform the user of the current line of action.
-[x] This task contains a well-detailed documentation.
+- ]It checks the host operating system and uses the appropriate installation commands
+- It checks for a previous installation before commencing a new one.
+- This installation script contains useful log statements to inform the user of the current line of action.
+- This task contains well-detailed documentation.
 
 # Installation Process
- Run this installation script from any opened terminal using Admin or Super user priviledges.
+ Run this installation script from any opened terminal using Admin or Super user privileges.
 
 ## All Windows Users
  - If not on Windows 10, install Cygwin or getGnuWin32 to get bash support in your command line.
